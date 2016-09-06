@@ -1,0 +1,24 @@
+{
+  "author" : "",
+  "commands" : [
+    {
+      "script" : "ExportLayerToXML.js",
+      "name" : "ExportLayerToXML",
+      "handlers" : {
+        "run" : "onRun"
+      },
+      "identifier" : "com.bohemiancoding.sketch.xml"
+    }
+  ],
+  "menu" : {
+    "items" : [
+      "com.bohemiancoding.sketch.xml"
+    ],
+    "title" : "ExportLayerToXML"
+  },
+  "identifier" : "com.example.sketch.966079cb-dc17-475d-83fe-2b9a8e7184fa",
+  "version" : "1.0",
+  "description" : "",
+  "authorEmail" : "",
+  "name" : "ExportLayerToXML"
+}
